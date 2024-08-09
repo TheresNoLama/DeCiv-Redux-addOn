@@ -1,25 +1,21 @@
 [
 {
-    "name": "Freedom Fighter",
-    "unitType": "Shooter",
-    "range": 1,
-    "movement": 2,
-    "strength": 30,
-    "rangedStrength": 35,
+    "name": "Cross Bike",
+    "unitType": "Scrapper",
+    "movement": 4,
+    "strength": 36,
     "interceptRange": 1,
-    "cost": 70,
-    "requiredTech": "The Wheel",
-    "obsoleteTech": "Replaceable Parts",
-    "upgradesTo": "Rifleman",
-    "uniqueTo":  "Wasteland Commune",
-    "replaces": "Gunman",
-    "hurryCostModifier": 20,
+    "cost": 120,
+    "requiredTech": "Machinery",
+    "upgradesTo": "Tank",
+    "uniqueTo":  "Children of Rust",
+    "replaces": "Cavalry",
     "uniques": [
+        "Mounted",
         "Personnel",
-        "Consumes [1] [Weapons]"
     ],
     "promotions": [
-        "Forage",
+        "Pursuit",
         "Guerilla Warfare I"
     ],
     "attackSound": "shot"
