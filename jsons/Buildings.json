@@ -8,6 +8,8 @@
     "hurryCostModifier": 25,
     "maintenance": 2,
     "uniques": [
+        "[+2 Production, +1 Culture] from every [Salvage site] <in this city>",
+        "[+1 Food, +1 Faith] from every [Camp] <in this city>",
         "Destroyed when the city is captured"
     ],
     "quote": "Just united we stand strong!",
