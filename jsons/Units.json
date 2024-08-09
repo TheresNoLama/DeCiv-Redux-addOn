@@ -5,7 +5,7 @@
     "movement": 4,
     "strength": 36,
     "interceptRange": 1,
-    "cost": 120,
+    "cost": 135,
     "requiredTech": "Machinery",
     "upgradesTo": "Tank",
     "uniqueTo":  "Children of Rust",
@@ -13,10 +13,14 @@
     "uniques": [
         "Mounted",
         "Personnel",
+        "[-25]% Strength <before discovering [Rifling]>",
+        "No defensive terrain bonus",
+        "Can move after attacking"
     ],
     "promotions": [
+        "Guerilla Warfare I",
         "Pursuit",
-        "Guerilla Warfare I"
+        "Urban Warfare I"
     ],
     "attackSound": "shot"
 }
