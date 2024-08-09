@@ -3,9 +3,9 @@
     "name": "Cross Bike",
     "unitType": "Scrapper",
     "movement": 4,
-    "strength": 36,
+    "strength": 32,
     "interceptRange": 1,
-    "cost": 110,
+    "cost": 80,
     "requiredTech": "Machinery",
     "upgradesTo": "Tank",
     "uniqueTo":  "Children of Rust",
@@ -13,14 +13,13 @@
     "uniques": [
         "Mounted",
         "Personnel",
-        "[-25]% Strength <before discovering [Rifling]>",
+        "[30]% Strength <after discovering [Rifling]>",
         "No defensive terrain bonus",
         "Can move after attacking"
     ],
     "promotions": [
-        "Guerilla Warfare I",
-        "Pursuit",
-        "Urban Warfare I"
+        "Forage",
+        "Pursuit"
     ],
     "attackSound": "shot"
 }
