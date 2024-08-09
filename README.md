@@ -1,3 +1,2 @@
-# Wasteland-Commune
-Deciv mod, adds a op faction (unbalanced/test)
-based on a mod of chenxing61
+# Deciv-Redux-addon
+Just adding a couple features to specialize factions. Goal is to get all factions and balance on the way. Wonders/National Wonders aswell. /wip
