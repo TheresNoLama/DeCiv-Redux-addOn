@@ -3,6 +3,7 @@
     "name": "Collecting Point",
     "replaces": "Blast Furnace",
     "uniqueTo": "Children of Rust",
+    "requiredTech": "Education",
     "specialistSlots": { "Administrator": 1 },
     "cost": 100,
     "hurryCostModifier": 25,
