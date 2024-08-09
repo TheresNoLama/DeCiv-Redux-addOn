@@ -5,7 +5,7 @@
     "movement": 4,
     "strength": 36,
     "interceptRange": 1,
-    "cost": 135,
+    "cost": 110,
     "requiredTech": "Machinery",
     "upgradesTo": "Tank",
     "uniqueTo":  "Children of Rust",
