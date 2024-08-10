@@ -1,4 +1,5 @@
 [
+    //Faction unique
 {
     "name": "Collecting Point",
     "replaces": "Blast Furnace",
