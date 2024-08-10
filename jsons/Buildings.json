@@ -25,5 +25,9 @@
 
 {
     "name": "Reformation",
+    "isNationalWonder": true,
+    "requiredTech": "Education",
+    "culture": 1,
+    "faith": 2
 },
 ]
