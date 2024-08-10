@@ -27,7 +27,14 @@
     "name": "Reformation",
     "isNationalWonder": true,
     "requiredTech": "Education",
+    "percentStatBonus": { "faith": 10 },
     "culture": 1,
-    "faith": 2
+    "faith": 2,
+    "uniques": [
+        "Gain a free [Any] belief",
+        "Can only be built <in [Holy] cities>",
+        "Only available <after enhancing a religion>",
+        "Hidden when religion is disabled"
+    ]
 },
 ]
