@@ -35,5 +35,16 @@
         "Only available <after enhancing a religion>",
         "Hidden when religion is disabled"
     ]
+},
+{
+    "name": "Discover old knowledge",
+    "isWonder": true,
+    "requiredTech": "Decontamination",
+    "happiness": 2,
+    "science": 2,
+    "uniques": [
+        "[+1 Happiness] from every [University]",
+        "[+25]% XP gained from combat"
+    ]
 }
 ]
