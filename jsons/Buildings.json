@@ -5,12 +5,11 @@
     "replaces": "Blast Furnace",
     "uniqueTo": "Children of Rust",
     "requiredTech": "Education",
-    "specialistSlots": { "Administrator": 1 },
-    "cost": 100,
+    "cost": 80,
     "hurryCostModifier": 25,
-    "maintenance": 2,
+    "maintenance": 1,
     "uniques": [
-        "[+2 Production, +1 Culture] from every [Salvage site] <in this city>",
+        "[+1 Production, +1 Culture] from every [Salvage site] <in this city>",
         "[+1 Food, +1 Faith] from every [Camp] <in this city>",
         "Destroyed when the city is captured"
     ],
