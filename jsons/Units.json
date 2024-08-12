@@ -5,7 +5,7 @@
     "movement": 4,
     "strength": 32,
     "interceptRange": 1,
-    "cost": 80,
+    "cost": 100,
     "requiredTech": "Machinery",
     "upgradesTo": "Tank",
     "uniqueTo":  "Children of Rust",
@@ -14,6 +14,7 @@
         "Mounted",
         "Personnel",
         "[30]% Strength <after discovering [Rifling]>",
+        "Consumes [1] [Weapons] <after discovering [Rifling]>",
         "No defensive terrain bonus",
         "Can move after attacking"
     ],
