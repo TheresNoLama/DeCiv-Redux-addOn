@@ -46,5 +46,19 @@
         "[+1 Happiness] from every [University]",
         "[+25]% XP gained from combat"
     ]
+},
+{
+    "name": "Goods Transportation Network",
+    "isNationalWonder": true,
+    "requiredTech": "Railroads",
+    "gold": 2,
+    "production": 2
+    "uniques": [
+        "[+1 Faith] from [Bioculture] tiles <in [Land] tiles> [in all cities connected to capital]",
+        "[+1 Culture] from [Borough] tiles <in [Bonus resource] tiles> [in all cities connected to capital]",
+        "[+1 Culture] from [Borough] tiles <in [Strategic resource] tiles> [in all cities connected to capital]",
+        "[+1 Culture] from [Borough] tiles <in [Luxury resource] tiles> [in all cities connected to capital]",
+        "[5]% [Production] [in all cities connected to capital]"
+    ]
 }
 ]
