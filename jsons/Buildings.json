@@ -57,7 +57,8 @@
         "[+1 Faith, +1 Culture, +1 Science] from [Bioculture] tiles <in [Land] tiles> [in all cities connected to capital]",
         "[+1 Culture, +1 Production] from [Borough] tiles <in [Bonus resource] tiles> [in all cities connected to capital]",
         "[+1 Culture, +1 Production] from [Borough] tiles <in [Strategic resource] tiles> [in all cities connected to capital]",
-        "[+1 Culture, +1 Gold] from [Borough] tiles <in [Luxury resource] tiles> [in all cities connected to capital]"
+        "[+1 Culture, +1 Gold] from [Borough] tiles <in [Luxury resource] tiles> [in all cities connected to capital]",
+        "[5]% [Production] [in all cities connected to capital]"
     ]
 }
 ]
