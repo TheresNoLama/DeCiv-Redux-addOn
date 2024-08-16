@@ -7,10 +7,11 @@
     "requiredTech": "Education",
     "cost": 80,
     "hurryCostModifier": 25,
+    "production": 2
     "maintenance": 1,
     "uniques": [
-        "[+1 Production, +1 Culture] from every [Salvage site] <in this city>",
-        "[+1 Food, +1 Faith] from every [Camp] <in this city>",
+        "[+1 Culture] from every [Salvage site] <in this city>",
+        "[+1 Faith] from every [Camp] <in this city>",
         "Destroyed when the city is captured"
     ],
     "quote": "Just united we stand strong!",
@@ -55,5 +56,17 @@
     "uniques": [
         "[+1 Culture] from [Borough] tiles [in this city]"
     ]
+},
+{
+    "name": "River Filtration Plant",
+    "gold": 5
+    "hurryCostModifier": 25,
+    "uniques": [
+			"Must be on [River]",
+			"[+1 Gold] from [River] tiles [in this city]",
+			"[+1 Gold] [in this city] <when above [0] [Power]>",
+			"Consumes [1] [Power]"
+		],
+		"requiredTech": "Desalination"
 }
 ]
