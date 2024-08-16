@@ -48,13 +48,10 @@
     ]
 },
 {
-    "name": "Goods Transportation Network",
-    "isNationalWonder": true,
-    "requiredTech": "Railroads",
-    "gold": 2,
-    "production": 4,
+    "name": "Local Infrastructure",
+    "requiredTech": "Computers",
+    "percentStatBonus": { "production": 10 },
     "uniques": [
-        "[+1 Faith, +1 Culture, +1 Science] from [Bioculture] tiles <in [Land] tiles> [in all cities connected to capital]",
         "[+1 Culture, +1 Production] from [Borough] tiles <in [Bonus resource] tiles> [in all cities connected to capital]",
         "[+1 Culture, +1 Production] from [Borough] tiles <in [Strategic resource] tiles> [in all cities connected to capital]",
         "[+1 Culture, +1 Gold] from [Borough] tiles <in [Luxury resource] tiles> [in all cities connected to capital]",
