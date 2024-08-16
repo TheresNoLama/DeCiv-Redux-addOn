@@ -1,2 +1,4 @@
 # Deciv-Redux-addon
-Just adding some stuff to specialize factions. Goal is to get all factions and balance on the way. lots of Wonders/National Wonders aswell. /wip
+general addon for deciv redux, trying to specialize factions more (all is goal) and give some niche/new buildings and wonders.
+trying to have it balanced in the end.
+/wip
