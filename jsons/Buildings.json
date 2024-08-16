@@ -52,10 +52,7 @@
     "requiredTech": "Computers",
     "percentStatBonus": { "production": 10 },
     "uniques": [
-        "[+1 Culture, +1 Production] from [Borough] tiles <in [Bonus resource] tiles> [in all cities connected to capital]",
-        "[+1 Culture, +1 Production] from [Borough] tiles <in [Strategic resource] tiles> [in all cities connected to capital]",
-        "[+1 Culture, +1 Gold] from [Borough] tiles <in [Luxury resource] tiles> [in all cities connected to capital]",
-        "[5]% [Production] [in all cities connected to capital]"
+        "[+1 Culture] from [Borough] tiles [in this city]"
     ]
 }
 ]
