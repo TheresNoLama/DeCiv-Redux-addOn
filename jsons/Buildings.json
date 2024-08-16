@@ -48,6 +48,7 @@
         "[+25]% XP gained from combat"
     ]
 },
+    //all Factions
 {
     "name": "Local Infrastructure",
     "requiredTech": "Computers",
