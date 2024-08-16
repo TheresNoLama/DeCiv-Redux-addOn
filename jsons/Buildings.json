@@ -61,11 +61,12 @@
     "name": "River Filtration Plant",
     "gold": 5
     "hurryCostModifier": 25,
+    "requiredTech": "Desalination",
     "uniques": [
 	"Must be on [River]",
 	"[+1 Gold] from [River] tiles [in this city]",
 	"[+1 Gold] [in this city] <when above [0] [Power]>",
 	"Consumes [1] [Power]"
-    ],
+    ]
 }
 ]
