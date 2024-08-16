@@ -52,6 +52,7 @@
     "name": "Local Infrastructure",
     "requiredTech": "Computers",
     "hurryCostModifier": 25,
+    "maintenance": 1,
     "percentStatBonus": { "production": 10 },
     "uniques": [
         "[+1 Culture] from [Borough] tiles [in this city]"
